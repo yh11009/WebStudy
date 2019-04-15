@@ -1,3 +1,17 @@
+**2019-04-15**
+#달성 목표 : React, Bootstrap, Django(NodeJS) 사용하여 기본 웹페이지 만들기
+
+#달성 내용
+1.[backend] Django 관련 설치 : 가상환경 생성, django 설치, django-rest-framework (DRF)설치, CORS를 위한 django-cors-headers 설치
+-프로젝트 생성 : [django-admin.py]-startproject
+-프로젝트 관리 : [manage.py]-startapp, migrate(makemigrations), createsuperuser, runserver
+
+2.[frontend] React 설치 : Node.js(npm), Yarn, react 설치
+3.backend + frontend : DRF이용하여 간단한 post api 생성 <-> frontend에서 해당 정보 전시하는 웹페이지 구현
+
+#CORS(Cross-Origin Resource Sharing, HTTP 접근제어 규약)
+
+================================================================================================================================
 **2019-04-08**
 #달성 내용
 1. 파이썬 문법 공부 이어서 하기 및 정리
@@ -152,15 +166,11 @@
 
 
 
------Version--
----
+-----Version-----
 Python : 3.7.2
-
 Django : 2.1.7
-
 Git : 2.21.0 
-
 SmartGit : Win18_2_6
-
+Node.js : 10.15.3
 
 gitHub URL : https://github.com/yh11009/WebStudy
